@@ -9,7 +9,7 @@
     "dist": "webpack --mode=production",
     "test": "mocha --recursive --require ts-node/register \"test/**/*.ts\"",
     "cover": "nyc npm t",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
