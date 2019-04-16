@@ -1,16 +1,7 @@
-# AFrame-TypeScript Template
-typescriptで開発をはじめるための自分用の雛形
+# 8thwall-image-detection-trial
+8th-wall 11 beta から追加されたイメージ認識のテストプロジェクト
 
-## 使い方
-セットアップ
-
-- git clone
-- cd aframe-ts-template
-- rm -rf .git 
-- git init
-
-
-開発・デプロイ
+## 開発・デプロイ
 
 - npm run dev → 開発サーバーの立ち上げ
 - npm run test → ユニットテスト
